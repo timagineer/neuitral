@@ -1,5 +1,5 @@
-# repo template
+# NEUITRAL
 
-description
+99-step grayscale UI prototyping palette generator
 
-[tmpl.timagineer.com](https://tmpl.timagineer.com)
+[neuitral.timagineer.com](https://neuitral.timagineer.com)
